@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Arkush</title>
+    <link href="https://aliaxandra.github.io/arkush/feed.xml" rel="self" />
+    <link href="https://aliaxandra.github.io/arkush" />
+    <updated>2025-01-17T14:26:36+01:00</updated>
+    <author>
+        <name>Sasha Serge</name>
+    </author>
+    <id>https://aliaxandra.github.io/arkush</id>
+
+    <entry>
+        <title>Hello World</title>
+        <author>
+            <name>Sasha Serge</name>
+        </author>
+        <link href="https://aliaxandra.github.io/arkush/hello-world.html"/>
+        <id>https://aliaxandra.github.io/arkush/hello-world.html</id>
+
+        <updated>2025-01-17T14:26:36+01:00</updated>
+            <summary>
+                <![CDATA[
+                    First
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    First
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
